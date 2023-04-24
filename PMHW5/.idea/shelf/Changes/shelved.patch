@@ -1,0 +1,687 @@
+Index: ../Homework5/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"6041d2d5-c76d-4fc6-bd81-a73ada2c4515\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Addintfloat.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Americanflag.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/DJE.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/DecimalDisp.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Divide.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/GivenPattern.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/JavaProg.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/JavaProgdisplay.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Jpd.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/MarkSheet.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/MultiTable.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/NurseryRhymes.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Operation.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/PMBiodata.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/PrintFace.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Stringdisp.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Sum.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Traingle1.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Traingle2.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Triangle.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/PMhw5/Twonoasinput.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Homework5.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Addintfloat.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Americanflag.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/DJE.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/DecimalDisp.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Divide.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/GivenPattern.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/JavaProg.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/JavaProgdisplay.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Jpd.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/MarkSheet.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/MultiTable.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/NurseryRhymes.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Operation.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/PMBiodata.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/PrintFace.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Stringdisp.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Sum.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Traingle1.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Traingle2.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Triangle.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/src/Twonoasinput.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2OtGMhe3B1IDGV15gX0NThS6HJL\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Homework/week5-HW/Homework5/src\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.fonts.default\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Homework\\week5-HW\\Homework5\\src\" />\r\n      <recent name=\"C:\\Homework\\week5-HW\\Homework5\\.idea\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"6041d2d5-c76d-4fc6-bd81-a73ada2c4515\" name=\"Changes\" comment=\"\" />\r\n      <created>1682029176678</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1682029176678</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../Homework5/.idea/workspace.xml b/../Homework5/.idea/workspace.xml
+--- a/../Homework5/.idea/workspace.xml	(revision aeb1d192656c2c8435d415417b7181b94e0fe31d)
++++ b/../Homework5/.idea/workspace.xml	(date 1682375145115)
+@@ -4,57 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6041d2d5-c76d-4fc6-bd81-a73ada2c4515" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Addintfloat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Americanflag.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/DJE.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/DecimalDisp.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Divide.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/GivenPattern.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/JavaProg.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/JavaProgdisplay.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Jpd.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/MarkSheet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/MultiTable.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/NurseryRhymes.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Operation.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/PMBiodata.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/PrintFace.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Stringdisp.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Sum.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Traingle1.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Traingle2.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Triangle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Twonoasinput.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Homework5.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Addintfloat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Americanflag.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/DJE.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/DecimalDisp.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Divide.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/GivenPattern.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/JavaProg.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/JavaProgdisplay.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Jpd.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/MarkSheet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/MultiTable.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/NurseryRhymes.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Operation.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/PMBiodata.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/PrintFace.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Stringdisp.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Sum.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Traingle1.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Traingle2.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Triangle.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/src/Twonoasinput.java" afterDir="false" />
+-    </list>
++    <list default="true" id="6041d2d5-c76d-4fc6-bd81-a73ada2c4515" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -74,7 +24,7 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "C:/Homework/week5-HW/Homework5/src",
++    "last_opened_file_path": "C:/Homework/week5-HW/Homework5/src/src",
+     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+   }
+ }]]></component>
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+new file mode 100644
+--- /dev/null	(date 1682375312480)
++++ b/src/Main.java	(date 1682375312480)
+@@ -0,0 +1,5 @@
++public class Main {
++    public static void main(String[] args) {
++        System.out.println("Hello world!");
++    }
++}
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1682375312242)
++++ b/.idea/misc.xml	(date 1682375312242)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CodeInsightWorkspaceSettings">
++    <option name="optimizeImportsOnTheFly" value="true" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1682375312344)
++++ b/.gitignore	(date 1682375312344)
+@@ -0,0 +1,29 @@
++### IntelliJ IDEA ###
++out/
++!**/src/main/**/out/
++!**/src/test/**/out/
++
++### Eclipse ###
++.apt_generated
++.classpath
++.factorypath
++.project
++.settings
++.springBeans
++.sts4-cache
++bin/
++!**/src/main/**/bin/
++!**/src/test/**/bin/
++
++### NetBeans ###
++/nbproject/private/
++/nbbuild/
++/dist/
++/nbdist/
++/.nb-gradle/
++
++### VS Code ###
++.vscode/
++
++### Mac OS ###
++.DS_Store
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1682375320092)
++++ b/.idea/.gitignore	(date 1682375320092)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
+Index: src/src/Operation.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Operation.java b/src/src/Operation.java
+new file mode 100644
+--- /dev/null	(date 1682375381101)
++++ b/src/src/Operation.java	(date 1682375381101)
+@@ -0,0 +1,18 @@
++package src;
++
++public class Operation {
++    public static void main(String[]args){
++
++        int a = -5+8*6;
++        System.out.println(a);
++
++        int b = (55+9)%9;
++        System.out.println(b);
++
++        int c = 20+-3*5/8;
++        System.out.println(c);
++
++        int d = 5+15/3*2-8%3;
++        System.out.println(d);
++    }
++}
+Index: src/src/Triangle.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Triangle.java b/src/src/Triangle.java
+new file mode 100644
+--- /dev/null	(date 1682375381333)
++++ b/src/src/Triangle.java	(date 1682375381333)
+@@ -0,0 +1,12 @@
++package src;
++
++public class Triangle {
++    public static void main(String[]args){
++        System.out.println("*");
++        System.out.println("**");
++        System.out.println("***");
++        System.out.println("****");
++        System.out.println("*****");
++        System.out.println("******");
++    }
++}
+Index: src/src/JavaProg.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/JavaProg.java b/src/src/JavaProg.java
+new file mode 100644
+--- /dev/null	(date 1682375381309)
++++ b/src/src/JavaProg.java	(date 1682375381309)
+@@ -0,0 +1,19 @@
++package src;
++
++public class JavaProg {
++    public static void main (String[]args){
++        int a = 5;
++        int b = 15;
++        double d = 15.56d;
++        float e = 3.6f;
++        char f = 'h';
++
++        System.out.println(a);
++        System.out.println(b);
++        System.out.println(d);
++        System.out.println(e);
++        System.out.println(f);
++
++
++    }
++}
+Index: src/src/DecimalDisp.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/DecimalDisp.java b/src/src/DecimalDisp.java
+new file mode 100644
+--- /dev/null	(date 1682375381252)
++++ b/src/src/DecimalDisp.java	(date 1682375381252)
+@@ -0,0 +1,13 @@
++package src;
++
++public class DecimalDisp {
++    public static void main(String[] args) {
++        float a = 25.5f;
++        float b = 3.5f;
++        float c = 40.5f;
++        float d= 4.5f;
++        System.out.println((a*b-b*b)/(c-d));
++
++
++    }
++}
+Index: src/src/Twonoasinput.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Twonoasinput.java b/src/src/Twonoasinput.java
+new file mode 100644
+--- /dev/null	(date 1682375381264)
++++ b/src/src/Twonoasinput.java	(date 1682375381264)
+@@ -0,0 +1,13 @@
++package src;
++
++public class Twonoasinput {
++
++   public static void main(String[]args){
++        int x= 25;
++        int y= 5;
++
++        System.out.println(x +"x"+ y +"=" + (x*y));
++
++    }
++
++}
+Index: src/src/Sum.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Sum.java b/src/src/Sum.java
+new file mode 100644
+--- /dev/null	(date 1682375381117)
++++ b/src/src/Sum.java	(date 1682375381117)
+@@ -0,0 +1,10 @@
++package src;
++
++public class Sum {
++    public static void main(String[]args){
++        int a= 74;
++        int b= 36;
++        int c=a+b;
++        System.out.println(c);
++    }
++}
+Index: src/src/Traingle1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Traingle1.java b/src/src/Traingle1.java
+new file mode 100644
+--- /dev/null	(date 1682375381298)
++++ b/src/src/Traingle1.java	(date 1682375381298)
+@@ -0,0 +1,12 @@
++package src;
++
++public class Traingle1 {
++    public static void main(String[]arg){
++        System.out.println("       *");
++        System.out.println("      **");
++        System.out.println("     ***");
++        System.out.println("    ****");
++        System.out.println("   *****");
++        System.out.println("  ******");
++    }
++}
+Index: src/src/NurseryRhymes.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/NurseryRhymes.java b/src/src/NurseryRhymes.java
+new file mode 100644
+--- /dev/null	(date 1682375381146)
++++ b/src/src/NurseryRhymes.java	(date 1682375381146)
+@@ -0,0 +1,12 @@
++package src;
++
++public class NurseryRhymes {
++    public static void main(String[] args) {
++        System.out.println("Twinkle, twinkle, little star,");
++        System.out.println("      How I wonder what you are!");
++        System.out.println("            Up above the world so high,");
++        System.out.println("               Like a diamond in the sky.");
++        System.out.println("Twinkle, twinkle, little star,");
++        System.out.println("      How I wonder what you are.");
++    }
++}
+Index: src/src/MultiTable.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/MultiTable.java b/src/src/MultiTable.java
+new file mode 100644
+--- /dev/null	(date 1682375381343)
++++ b/src/src/MultiTable.java	(date 1682375381343)
+@@ -0,0 +1,18 @@
++package src;
++
++public class MultiTable {
++    public static void main(String[]args){
++        System.out.println("8 x 1 = 8");
++        System.out.println("8 x 2 = 16");
++        System.out.println("8 x 3 = 24");
++        System.out.println("8 x 4 = 32");
++        System.out.println("8 x 5 = 40");
++        System.out.println("8 x 6 = 48");
++        System.out.println("8 x 7 = 56");
++        System.out.println("8 x 8 = 64");
++        System.out.println("8 x 9 = 72");
++        System.out.println("8 x 10 = 80");
++
++
++    }
++}
+Index: src/src/MarkSheet.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/MarkSheet.java b/src/src/MarkSheet.java
+new file mode 100644
+--- /dev/null	(date 1682375381167)
++++ b/src/src/MarkSheet.java	(date 1682375381167)
+@@ -0,0 +1,41 @@
++package src;
++
++public class MarkSheet {
++    public static void main(String[]args){
++        int english = 89;
++        int science = 90;
++        int maths = 98;
++        int sanskrit =90;
++        int hindi = 98;
++        int total_marks = english+ science+ maths+sanskrit+hindi;
++        double percentage = (double) total_marks/5;
++        System.out.println("=========================================================================");
++        System.out.println("|                   Maharashtra State Board of                          |");
++        System.out.println("|           Secondary School Examination Certificate                    |");
++        System.out.println("=========================================================================");
++        System.out.println("| Division Board|Seat No.| Centre no.| School No.|Sr. No. of Certificate|");
++        System.out.println("| Mumbai        |B085882 | 0111      | 33.087    | 128271               |");
++        System.out.println("=========================================================================");
++        System.out.println("| Main Subjects | Max. Marks    | Marks Obtained                        |");
++        System.out.println("| English       | 100           |"+ english +  "                                     |");
++        System.out.println("| Science       | 100           |"+ science +  "                                     |");
++        System.out.println("| Maths         | 100           |"+ maths   +  "                                     |");
++        System.out.println("| Sanskrit      | 100           |"+ sanskrit +  "                                     |");
++        System.out.println("| Hindi         | 100           |"+ hindi    +  "                                     |");
++        System.out.println("=========================================================================");
++        System.out.println("| Total Marks   | "+total_marks+"                                                   |");
++        System.out.println("| Percentage    |  "+percentage+"                                                 |");
++        System.out.println("=========================================================================");
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/src/PMBiodata.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/PMBiodata.java b/src/src/PMBiodata.java
+new file mode 100644
+--- /dev/null	(date 1682375381227)
++++ b/src/src/PMBiodata.java	(date 1682375381227)
+@@ -0,0 +1,20 @@
++package src;
++
++public class PMBiodata {
++    public static void main(String[] args) {
++        System.out.println("First Name: Test");
++        System.out.println("Last Name: Test Surname");
++        System.out.println("DOB: 15/06/1974");
++        System.out.println("Email id: test@gmail.com");
++        System.out.println("Education: BSc in Analytical Chemistry    Grade: A");
++        System.out.println("Education: HSC                            Grade: A");
++        System.out.println("Education: SSC                            Grade: A");
++        System.out.println("Skills: MS Word, Excel, Powerpoint");
++        System.out.println("Tools: Testrail, Jira, Selenium, postman");
++        System.out.println("Testing Methodologies: Manual and Automation");
++        System.out.println("Methodology: Agile");
++        System.out.println("Testing: Regression, System, Smoke, Sanity");
++        System.out.println("Framework: TestNg, Maven");
++
++    }
++}
+\ No newline at end of file
+Index: src/src/PrintFace.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/PrintFace.java b/src/src/PrintFace.java
+new file mode 100644
+--- /dev/null	(date 1682375381213)
++++ b/src/src/PrintFace.java	(date 1682375381213)
+@@ -0,0 +1,12 @@
++package src;
++
++public class PrintFace {
++    public static void main(String args[]){
++
++        System.out.println("   +\"\"\"\"\"\"\"\"+  ");
++        System.out.println("[ |  0     0 | ]");
++        System.out.println("  |     ^    | ");
++        System.out.println("  |    '-'   | ");
++        System.out.println("  +----------+ ");
++    }
++}
+Index: src/src/Divide.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Divide.java b/src/src/Divide.java
+new file mode 100644
+--- /dev/null	(date 1682375381320)
++++ b/src/src/Divide.java	(date 1682375381320)
+@@ -0,0 +1,8 @@
++package src;
++
++public class Divide {
++    public static void main(String[]args){
++        int a = 50/3;
++        System.out.println(a);
++    }
++}
+Index: src/src/Jpd.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Jpd.java b/src/src/Jpd.java
+new file mode 100644
+--- /dev/null	(date 1682375381239)
++++ b/src/src/Jpd.java	(date 1682375381239)
+@@ -0,0 +1,13 @@
++package src;
++
++public class Jpd {
++    public static void main(String[] args) {
++        int a = 25;
++        int b = 39;
++        System.out.println(a + "!=" +b);
++        System.out.println(a + "<" +b);
++        System.out.println(a + "<=" +b);
++
++
++    }
++}
+Index: src/src/Americanflag.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Americanflag.java b/src/src/Americanflag.java
+new file mode 100644
+--- /dev/null	(date 1682375381195)
++++ b/src/src/Americanflag.java	(date 1682375381195)
+@@ -0,0 +1,23 @@
++package src;
++
++public class Americanflag {
++    public static void main(String[]args){
++        System.out.println("* * * * * * =================================");
++        System.out.println(" * * * * ====================================");
++        System.out.println("* * * * * * =================================");
++        System.out.println(" * * * * ====================================");
++        System.out.println("* * * * * *==================================");
++        System.out.println(" * * * * ====================================");
++        System.out.println("* * * * * * =================================");
++        System.out.println(" * * * * ====================================");
++        System.out.println("* * * * * * =================================");
++        System.out.println("=============================================");
++        System.out.println("=============================================");
++        System.out.println("=============================================");
++        System.out.println("=============================================");
++        System.out.println("=============================================");
++        System.out.println("=============================================");
++
++
++    }
++}
+Index: src/src/GivenPattern.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/GivenPattern.java b/src/src/GivenPattern.java
+new file mode 100644
+--- /dev/null	(date 1682375381378)
++++ b/src/src/GivenPattern.java	(date 1682375381378)
+@@ -0,0 +1,10 @@
++package src;
++
++public class GivenPattern {
++    public static void main(String[] args) {
++        System.out.println("J  a  v     v  a");
++        System.out.println("J  a a  v   v  a a");
++        System.out.println("J  J  aaaaa  V V  aaaaa");
++        System.out.println("JJ a  a     V  a  a");
++    }
++}
+Index: src/src/Traingle2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Traingle2.java b/src/src/Traingle2.java
+new file mode 100644
+--- /dev/null	(date 1682375381089)
++++ b/src/src/Traingle2.java	(date 1682375381089)
+@@ -0,0 +1,11 @@
++package src;
++
++public class Traingle2 {
++    public static void main (String[]args){
++        System.out.println("    *  ");
++        System.out.println("   * * ");
++        System.out.println("  * * * ");
++        System.out.println(" * * * * ");
++        System.out.println("* * * * * ");
++    }
++}
+Index: src/src/Addintfloat.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Addintfloat.java b/src/src/Addintfloat.java
+new file mode 100644
+--- /dev/null	(date 1682375381358)
++++ b/src/src/Addintfloat.java	(date 1682375381358)
+@@ -0,0 +1,11 @@
++package src;
++
++public class Addintfloat {
++    public static void main(String[]args){
++        double a = 5;
++        double b = 6.2;
++        double c = a + b;
++        System.out.println(c);
++
++    }
++}
+Index: src/src/JavaProgdisplay.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/JavaProgdisplay.java b/src/src/JavaProgdisplay.java
+new file mode 100644
+--- /dev/null	(date 1682375381276)
++++ b/src/src/JavaProgdisplay.java	(date 1682375381276)
+@@ -0,0 +1,12 @@
++package src;
++
++public class JavaProgdisplay {
++    public static void main(String[] args) {
++        System.out.println("Java Version: 1.8.0_71");
++        System.out.println("Java Runtime Version: 1.8.0_71-b15");
++        System.out.println("Java Home: /opt/jdk/jdk1.8.0_71/jre");
++        System.out.println("Java Vendor: Oracle Corporation");
++        System.out.println("Java Vendor URL: http://Java.oracle.com/");
++        System.out.println("Java Class Path: java.class.path");
++    }
++}
+Index: src/src/Stringdisp.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/Stringdisp.java b/src/src/Stringdisp.java
+new file mode 100644
+--- /dev/null	(date 1682375381288)
++++ b/src/src/Stringdisp.java	(date 1682375381288)
+@@ -0,0 +1,8 @@
++package src;
++
++public class Stringdisp {
++    public static void main(String[] args) {
++        String abc = "Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33";
++        System.out.println(abc);
++    }
++}
+Index: src/src/DJE.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/src/DJE.java b/src/src/DJE.java
+new file mode 100644
+--- /dev/null	(date 1682375381156)
++++ b/src/src/DJE.java	(date 1682375381156)
+@@ -0,0 +1,16 @@
++package src;
++
++public class DJE {
++    public static void main(String[]args){
++        System.out.println("******           **************     **********");
++        System.out.println("**   **                **           **        ");
++        System.out.println("**    **               **           **        ");
++        System.out.println("**     **              **           **        ");
++        System.out.println("**     **              **           ********  ");
++        System.out.println("**     **      **      **           **        ");
++        System.out.println("**    **        **    **            **        ");
++        System.out.println("**   **          **   **            **        ");
++        System.out.println("******             **               **********");
++
++    }
++}
