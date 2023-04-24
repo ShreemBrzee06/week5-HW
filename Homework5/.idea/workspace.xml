@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6041d2d5-c76d-4fc6-bd81-a73ada2c4515" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Addintfloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Americanflag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/DJE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/DecimalDisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/GivenPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/JavaProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/JavaProgdisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Jpd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/MarkSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/MultiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/NurseryRhymes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/PMBiodata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/PrintFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Stringdisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Traingle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Traingle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PMhw5/Twonoasinput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Addintfloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Americanflag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/DJE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/DecimalDisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/GivenPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/JavaProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/JavaProgdisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Jpd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/MarkSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/MultiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/NurseryRhymes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/PMBiodata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/PrintFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Stringdisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Traingle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Traingle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Twonoasinput.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OtGMhe3B1IDGV15gX0NThS6HJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Homework/week5-HW/Homework5/src",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\week5-HW\Homework5\src" />
+      <recent name="C:\Homework\week5-HW\Homework5\.idea" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6041d2d5-c76d-4fc6-bd81-a73ada2c4515" name="Changes" comment="" />
+      <created>1682029176678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682029176678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
